@@ -1,0 +1,1 @@
+# Member-function-static-constructor
